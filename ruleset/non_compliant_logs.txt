@@ -1,0 +1,78 @@
+This is a sample of logs that classify as non compliant for the system:
+
+Not Compliant 2023-08-21 15:40:18 ERROR AccessControlService AccessModule UserID505 Unauthorized Access Attempt Resource: /admin/settings
+Not Compliant 2023-08-21 16:20:30 ERROR PaymentService PaymentModule UserID202 Credit Card Information Leakage CardNumber: 1234-5678-9012-3456
+Not Compliant 2023-08-21 17:15:22 ERROR AuthUserService AuthModule UserID606 Password Change Failed PasswordChangeAttempts: 3
+Not Compliant 2023-08-21 18:10:25 ERROR InventoryService InventoryModule UserID303 Stock Manipulation Detected ProductID: 789
+Not Compliant 2023-08-22 09:32:15 ERROR CartService CartModule UserID101 Cart Deletion Failed CartID: 123
+Not Compliant 2023-08-22 10:45:22 ERROR ProductService ProductModule UserID404 Product Deletion Failed ProductID: 456
+Not Compliant 2023-08-22 11:20:10 ERROR PaymentService PaymentModule UserID505 Refund Process Error TransactionID: 7890
+Not Compliant 2023-08-22 12:15:40 ERROR ShippingService ShippingModule UserID202 Incorrect Address Entered OrderID: 987
+Not Compliant 2023-08-22 13:05:18 ERROR OrderService OrderModule UserID606 Order Modification Attempt OrderID: 123
+Not Compliant 2023-08-22 14:30:55 ERROR AuthUserService AuthModule UserID303 Account Lockout Exceeded FailedLoginAttempts: 5
+Not Compliant 2023-08-22 15:55:30 ERROR CartService CartModule UserID101 Cart Manipulation Detected CartTotal: $5000
+Not Compliant 2023-08-22 16:40:09 ERROR ProductService ProductModule UserID404 Price Manipulation ProductID: 234
+Not Compliant 2023-08-22 17:25:17 ERROR PaymentService PaymentModule UserID606 Suspicious Transaction Detected Amount: $10000
+Not Compliant 2023-08-22 18:10:25 ERROR AuthUserService AuthModule UserID303 Suspicious Login from New Location Location: IP 123.45.67.89
+Not Compliant 2023-08-23 09:12:30 ERROR ShippingService ShippingModule UserID404 Address Change without Verification OrderID: 765
+Not Compliant 2023-08-23 10:20:45 ERROR OrderService OrderModule UserID101 Order Cancellation Attempt OrderID: 567
+Not Compliant 2023-08-23 11:55:15 ERROR PaymentService PaymentModule UserID202 Payment Fraud Detected TransactionID: 876
+Not Compliant 2023-08-23 12:30:10 ERROR CartService CartModule UserID303 Cart Manipulation Detected CartID: 345
+Not Compliant 2023-08-23 13:20:30 ERROR ProductService ProductModule UserID404 Product Rating Manipulation ProductID: 789
+Not Compliant 2023-08-23 14:45:20 ERROR AuthUserService AuthModule UserID606 Account Recovery Manipulation UserID: 505
+Not Compliant 2023-08-23 15:30:18 ERROR OrderService OrderModule UserID101 Order Duplication Attempt OrderID: 234
+Not Compliant 2023-08-23 16:10:25 ERROR PaymentService PaymentModule UserID303 Suspicious Payment Source Detected PaymentID: 345
+Not Compliant 2023-08-23 17:40:12 ERROR AuthUserService AuthModule UserID202 Password Retrieval Attempt UserID: 123
+Not Compliant 2023-08-23 18:25:08 ERROR ProductService ProductModule UserID404 Product Availability Misrepresentation ProductID: 456
+Not Compliant 2023-08-24 09:20:22 ERROR CartService CartModule UserID505 Cart Manipulation Detected CartID: 567
+Not Compliant 2023-08-24 10:15:30 ERROR AuthUserService AuthModule UserID303 Account Hijacking Attempt UserID: 890
+Not Compliant 2023-08-24 11:40:17 ERROR InventoryService InventoryModule UserID101 Unauthorized Stock Adjustment ProductID: 789
+Not Compliant 2023-08-24 12:35:40 ERROR OrderService OrderModule UserID404 Order Price Manipulation OrderID: 876
+Not Compliant 2023-08-24 13:25:15 ERROR ShippingService ShippingModule UserID303 Address Change without Verification OrderID: 234
+Not Compliant 2023-08-24 14:50:22 ERROR PaymentService PaymentModule UserID505 Payment Chargeback Fraud TransactionID: 567
+Not Compliant 2023-08-24 15:45:18 ERROR ProductService ProductModule UserID202 Unauthorized Product Deletion ProductID: 345
+Not Compliant 2023-08-24 16:30:09 ERROR AuthUserService AuthModule UserID404 Account Deactivation without Request UserID: 789
+Not Compliant 2023-08-24 17:15:22 ERROR CartService CartModule UserID303 Abnormal Purchase Patterns Detected UserID: 567
+Not Compliant 2023-08-24 18:05:10 ERROR InventoryService InventoryModule UserID101 Suspicious Stock Transfer ProductID: 234
+Not Compliant 2023-08-25 09:30:15 ERROR PaymentService PaymentModule UserID606 Suspicious Card Replacement CardNumber: 9876-5432-1098-7654
+Not Compliant 2023-08-25 10:40:22 ERROR AuthUserService AuthModule UserID404 Account Information Exposure UserID: 123
+Not Compliant 2023-08-25 11:10:30 ERROR ProductService ProductModule UserID505 Product Review Manipulation ProductID: 456
+Not Compliant 2023-08-25 12:20:40 ERROR OrderService OrderModule UserID202 Order Price Inflation OrderID: 789
+Not Compliant 2023-08-25 13:15:18 ERROR CartService CartModule UserID303 Unauthorized Cart Access CartID: 876
+Not Compliant 2023-08-25 14:25:30 ERROR ShippingService ShippingModule UserID101 Address Change Fraud OrderID: 567
+Not Compliant 2023-08-25 15:40:18 ERROR PaymentService PaymentModule UserID404 Payment Chargeback Attempt TransactionID: 789
+Not Compliant 2023-08-25 16:30:09 ERROR AuthUserService AuthModule UserID606 Suspicious Login Activity UserID: 890
+Not Compliant 2023-08-25 17:25:15 ERROR InventoryService InventoryModule UserID303 Unauthorized Stock Adjustment ProductID: 901
+Not Compliant 2023-08-25 18:10:22 ERROR ProductService ProductModule UserID101 Fake Product Listings ProductID: 234
+Not Compliant 2023-08-30 17:15:22 ERROR CartService CartModule UserID303 Abnormal Purchase Patterns Detected
+Not Compliant 2023-09-03 09:20:22 ERROR CartService CartModule UserID101 Cart Deletion Failed CartID: 123
+Not Compliant 2023-09-03 10:15:30 ERROR ProductService ProductModule UserID404 Product Deletion Failed ProductID: 456
+Not Compliant 2023-09-03 11:20:10 ERROR PaymentService PaymentModule UserID505 Refund Process Error TransactionID: 7890
+Not Compliant 2023-09-03 12:15:40 ERROR ShippingService ShippingModule UserID202 Incorrect Address Entered OrderID: 987
+Not Compliant 2023-09-03 13:05:18 ERROR OrderService OrderModule UserID606 Order Modification Attempt OrderID: 123
+Not Compliant 2023-09-03 14:30:55 ERROR AuthUserService AuthModule UserID303 Account Lockout Exceeded FailedLoginAttempts: 5
+Not Compliant 2023-09-03 15:55:30 ERROR CartService CartModule UserID101 Cart Manipulation Detected CartTotal: $5000
+Not Compliant 2023-09-03 16:40:09 ERROR ProductService ProductModule UserID404 Price Manipulation ProductID: 234
+Not Compliant 2023-09-03 17:25:17 ERROR PaymentService PaymentModule UserID606 Suspicious Transaction Detected Amount: $10000
+Not Compliant 2023-09-03 18:10:25 ERROR AuthUserService AuthModule UserID303 Suspicious Login from New Location Location: IP 123.45.67.89
+Not Compliant 2023-09-04 09:12:30 ERROR ShippingService ShippingModule UserID404 Address Change without Verification OrderID: 765
+Not Compliant 2023-09-04 10:20:45 ERROR OrderService OrderModule UserID101 Order Cancellation Attempt OrderID: 567
+Not Compliant 2023-09-04 11:55:15 ERROR PaymentService PaymentModule UserID202 Payment Fraud Detected TransactionID: 876
+Not Compliant 2023-09-04 12:30:10 ERROR CartService CartModule UserID303 Cart Manipulation Detected CartID: 345
+Not Compliant 2023-09-04 13:20:30 ERROR ProductService ProductModule UserID404 Product Rating Manipulation ProductID: 789
+Not Compliant 2023-09-04 14:45:20 ERROR AuthUserService AuthModule UserID606 Account Recovery Manipulation UserID: 505
+Not Compliant 2023-09-04 15:30:18 ERROR OrderService OrderModule UserID101 Order Duplication Attempt OrderID: 234
+Not Compliant 2023-09-04 16:10:25 ERROR PaymentService PaymentModule UserID303 Suspicious Payment Source Detected PaymentID: 345
+Not Compliant 2023-09-04 17:40:12 ERROR AuthUserService AuthModule UserID202 Password Retrieval Attempt UserID: 123
+Not Compliant 2023-09-04 18:25:08 ERROR ProductService ProductModule UserID404 Product Availability Misrepresentation ProductID: 456
+Not Compliant 2023-09-05 09:20:22 ERROR CartService CartModule UserID505 Cart Manipulation Detected CartID: 567
+Not Compliant 2023-09-05 10:15:30 ERROR AuthUserService AuthModule UserID303 Account Hijacking Attempt UserID: 890
+Not Compliant 2023-09-05 11:40:17 ERROR InventoryService InventoryModule UserID101 Unauthorized Stock Adjustment ProductID: 789
+Not Compliant 2023-09-05 12:35:40 ERROR OrderService OrderModule UserID404 Order Price Manipulation OrderID: 876
+Not Compliant 2023-09-05 13:25:15 ERROR ShippingService ShippingModule UserID303 Address Change without Verification OrderID: 234
+Not Compliant 2023-09-05 14:50:22 ERROR PaymentService PaymentModule UserID505 Payment Chargeback Fraud TransactionID: 567
+Not Compliant 2023-09-05 15:45:18 ERROR ProductService ProductModule UserID202 Unauthorized Product Deletion ProductID: 345
+Not Compliant 2023-09-05 16:30:09 ERROR AuthUserService AuthModule UserID404 Account Deactivation without Request UserID: 789
+Not Compliant 2023-09-05 17:15:22 ERROR CartService CartModule UserID303 Abnormal Purchase Patterns Detected UserID: 567
+Not Compliant 2023-09-05 18:05:10 ERROR InventoryService InventoryModule UserID101 Suspicious Stock Transfer ProductID: 234
+Not Compliant 2023-09-06 09:30:15 ERROR PaymentService PaymentModule UserID505 Suspicious Card Replacement CardNumber: 5678-1234-9876-5432

@@ -1,0 +1,85 @@
+Type,Timestamp,LogLevel,Service,Module,UserID,Action,Details
+Not Compliant,2023-09-06 10:40:22,DEBUG,AuthUserService,AuthModule,UserID101,Invalid Login Attempt,Location: IP 123.45.67.89
+Not Compliant,2023-09-06 11:20:30,INFO,ProductService,ProductModule,UserID303,Unauthorized Product Addition,ProductID: 789
+Not Compliant,2023-09-06 12:15:18,INFO,CartService,CartModule,UserID202,Excessive Item Addition,CartID: 123
+Not Compliant,2023-09-06 13:10:25,ERROR,ShippingService,ShippingModule,UserID404,Unauthorized Shipment Update,ShipmentID: 567
+Not Compliant,2023-09-06 14:05:40,INFO,OrderService,OrderModule,UserID505,Unauthorized Order Placement,OrderID: 901
+Not Compliant,2023-09-06 15:30:18,WARN,PaymentService,PaymentModule,UserID606,Fraudulent Payment Detected,TransactionID: 1234
+Not Compliant,2023-09-06 16:20:22,INFO,AuthUserService,AuthModule,UserID101,Password Compromised,
+Not Compliant,2023-09-06 17:15:30,DEBUG,ProductService,ProductModule,UserID303,Unauthorized Product Deletion,ProductID: 234
+Not Compliant,2023-09-06 18:10:25,ERROR,CartService,CartModule,UserID202,Cart Manipulation Detected,CartID: 456 Total: $150
+Not Compliant,2023-09-07 09:12:30,ERROR,ShippingService,ShippingModule,UserID404,Missing Shipment Validation,ShipmentID: 789
+Not Compliant,2023-09-07 10:25:30,WARN,AuthUserService,AuthModule,UserID505,Account Hijacking Attempt,UserID: 101
+Not Compliant,2023-09-07 11:15:20,INFO,ProductService,ProductModule,UserID202,Unauthorized Product Price Update,ProductID: 567 New Price: $25.99
+Not Compliant,2023-09-07 12:20:10,DEBUG,CartService,CartModule,UserID303,Cart Exploited for Discounts,CartID: 789
+Not Compliant,2023-09-07 13:05:18,ERROR,OrderService,OrderModule,UserID404,Order Tampering Detected,OrderID: 901
+Not Compliant,2023-09-07 14:30:55,INFO,PaymentService,PaymentModule,UserID606,Payment Chargeback Initiated,TransactionID: 5678
+Not Compliant,2023-09-07 15:55:30,DEBUG,ShippingService,ShippingModule,UserID101,Unauthorized Shipment Arrival,ShipmentID: 234
+Not Compliant,2023-09-07 16:40:09,INFO,AuthUserService,AuthModule,UserID303,Password Brute Force Attack Detected,UserID: 505
+Not Compliant,2023-09-07 17:25:17,WARN,InventoryService,InventoryModule,UserID404,Stock Manipulation Attempt,ProductID: 678 New Count: 100
+Not Compliant,2023-09-07 18:10:25,ERROR,ProductService,ProductModule,UserID101,Unauthorized Product Review Submission,ProductID: 345
+Not Compliant,2023-09-08 09:12:30,DEBUG,CartService,CartModule,UserID303,Unauthorized Wishlist Manipulation,UserID: 234
+Not Compliant,2023-09-08 10:20:45,WARN,OrderService,OrderModule,UserID101,Order Tracking Link Manipulation,OrderID: 456
+Not Compliant,2023-09-08 11:55:15,INFO,PaymentService,PaymentModule,UserID202,Unauthorized Payment Processing,TransactionID: 7890
+Not Compliant,2023-09-08 12:30:10,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Estimation,ShipmentID: 567
+Not Compliant,2023-09-08 13:20:30,DEBUG,AuthUserService,AuthModule,UserID404,Security Question Exploitation,UserID: 678
+Not Compliant,2023-09-08 14:45:20,INFO,ProductService,ProductModule,UserID606,Unapproved Product Search Query,Keyword: Smartphone
+Not Compliant,2023-09-08 15:30:18,ERROR,CartService,CartModule,UserID303,Cart Hijacking Attempt,CartID: 789
+Not Compliant,2023-09-08 16:10:25,ERROR,ShippingService,ShippingModule,UserID101,Unauthorized Shipment Address Change,ShipmentID: 890
+Not Compliant,2023-09-08 17:40:12,DEBUG,OrderService,OrderModule,UserID303,Unauthorized Order Status Update,OrderID: 567 Status: Completed
+Not Compliant,2023-09-08 18:25:08,INFO,PaymentService,PaymentModule,UserID404,Unauthorized Payment Confirmation Email,TransactionID: 901
+Not Compliant,2023-09-09 09:20:22,ERROR,CartService,CartModule,UserID505,Unauthorized Cart Item Removal,CartID: 234
+Not Compliant,2023-09-09 10:15:30,DEBUG,AuthUserService,AuthModule,UserID303,Unauthorized Session Timeout,UserID: 567
+Not Compliant,2023-09-09 11:40:17,ERROR,InventoryService,InventoryModule,UserID101,Unauthorized Stock Transfer,ProductID: 345
+Not Compliant,2023-09-09 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order Return,OrderID: 123
+Not Compliant,2023-09-09 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Delay Notification,ShipmentID: 456
+Not Compliant,2023-09-09 14:50:22,WARN,PaymentService,PaymentModule,UserID505,Fraudulent Payment Attempt,TransactionID: 234
+Not Compliant,2023-09-09 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Attempt,Products: [123, 234]
+Not Compliant,2023-09-09 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Two-Factor Authentication,UserID: 567
+Not Compliant,2023-09-09 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Stock Diversion Detected
+Not Compliant,2023-09-09 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Filtering,Keyword: Laptop
+Not Compliant,2023-09-10 09:20:22,ERROR,CartService,CartModule,UserID303,Unauthorized Cart Checkout,CartID: 901
+Not Compliant,2023-09-10 10:15:30,WARN,AuthUserService,AuthModule,UserID505,Account Unauthorized Access Attempt,UserID: 123
+Not Compliant,2023-09-10 11:40:17,DEBUG,InventoryService,InventoryModule,UserID101,Unauthorized Stock Usage Report Generation
+Not Compliant,2023-09-10 12:35:40,ERROR,OrderService,OrderModule,UserID404,Unauthorized Order Cancellation,OrderID: 567
+Not Compliant,2023-09-10 13:25:15,WARN,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Consolidation,ShipmentID: 890
+Not Compliant,2023-09-10 14:50:22,ERROR,PaymentService,PaymentModule,UserID505,Unauthorized Payment Gateway Access
+Not Compliant,2023-09-10 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Exploit,ProductID: 567
+Not Compliant,2023-09-10 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Account Deactivation,UserID: 890
+Not Compliant,2023-09-10 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Unauthorized Stock Reconciliation
+Not Compliant,2023-09-10 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Recommendation Change
+Not Compliant,2023-09-11 09:20:22,ERROR,CartService,CartModule,UserID303,Unauthorized Cart Item Quantity Modification,CartID: 901
+Not Compliant,2023-09-11 10:15:30,WARN,AuthUserService,AuthModule,UserID505,Unauthorized Security Alert Setting Change,UserID: 123
+Not Compliant,2023-09-11 11:40:17,ERROR,InventoryService,InventoryModule,UserID101,Unauthorized Stock Usage Analysis
+Not Compliant,2023-09-11 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order Tracking Link Generation,OrderID: 567
+Not Compliant,2023-09-11 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Packaging,ShipmentID: 234
+Not Compliant,2023-09-11 14:50:22,WARN,PaymentService,PaymentModule,UserID505,Unauthorized Payment Confirmation,TransactionID: 7890
+Not Compliant,2023-09-11 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Unauthorized Product Details Access,ProductID: 567
+Not Compliant,2023-09-11 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Account Setting Change,UserID: 890
+Not Compliant,2023-09-11 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Unauthorized Stock Manipulation
+Not Compliant,2023-09-11 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Search Result Manipulation,Keyword: Laptop
+Not Compliant,2023-09-12 09:20:22,ERROR,CartService,CartModule,UserID303,Unauthorized Cart Checkout Initiation,CartID: 901
+Not Compliant,2023-09-12 10:15:30,WARN,AuthUserService,AuthModule,UserID505,Unauthorized Account Hijack Attempt,UserID: 123
+Not Compliant,2023-09-12 11:40:17,ERROR,InventoryService,InventoryModule,UserID101,Unauthorized Stock Usage Report Access
+Not Compliant,2023-09-12 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order History Access,UserID: 567
+Not Compliant,2023-09-12 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Packaging Start,ShipmentID: 890
+Not Compliant,2023-09-12 14:50:22,WARN,PaymentService,PaymentModule,UserID505,Unauthorized Payment Gateway Integration
+Not Compliant,2023-09-12 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Unauthorized Product Details View,ProductID: 567
+Not Compliant,2023-09-12 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Account Update,UserID: 890
+Not Compliant,2023-09-12 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Unauthorized Stock Audit
+Not Compliant,2023-09-12 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Filtering,Keyword: Laptop
+Not Compliant,2023-09-13 09:20:22,ERROR,CartService,CartModule,UserID303,Unauthorized Cart Item Addition,CartID: 901
+Not Compliant,2023-09-13 10:15:30,WARN,AuthUserService,AuthModule,UserID505,Unauthorized Security Alert Update,UserID: 123
+Not Compliant,2023-09-13 11:40:17,ERROR,InventoryService,InventoryModule,UserID101,Unauthorized Stock Transfer,ProductID: 345
+Not Compliant,2023-09-13 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order Return,OrderID: 123
+Not Compliant,2023-09-13 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Delay Notification,ShipmentID: 456
+Not Compliant,2023-09-13 14:50:22,WARN,PaymentService,PaymentModule,UserID505,Fraudulent Payment Attempt,TransactionID: 234
+Not Compliant,2023-09-13 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Attempt,Products: [123, 234]
+Not Compliant,2023-09-13 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Two-Factor Authentication,UserID: 567
+Not Compliant,2023-09-13 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Unauthorized Stock Diversion
+Not Compliant,2023-09-13 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Recommendation Change
+Not Compliant,2023-09-14 09:20:22,ERROR,CartService,CartModule,UserID303,Unauthorized Cart Item Quantity Modification,CartID: 901
+Not Compliant,2023-09-14 10:15:30,WARN,AuthUserService,AuthModule,UserID505,Unauthorized Security Alert Setting Change,UserID: 123
+Not Compliant,2023-09-14 11:40:17,ERROR,InventoryService,InventoryModule,UserID101,Unauthorized Stock Usage Analysis
+Not Compliant,2023-09-14 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order Tracking Link Generation,OrderID: 567
+Not Compliant,2023-09-14 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Packaging,ShipmentID: 234

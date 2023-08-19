@@ -1,0 +1,32 @@
+This document holds the formats for Logs
+
+Sample Knowledge base of Text logs follow this format:
+[Compliant or Not Compliant] [Date and Time] [Log Level] [Service Name] [Module] [User ID] [Action/Event] [Description]
+
+Sample Knowledge base of CSV logs follow this format:
+Type,Timestamp,LogLevel,Service,Module,UserID,Action,Details
+
+Sample Knowledge base of Json logs follow this format:
+{
+  "type": "Not compliant",
+  "timestamp": "2023-09-06 10:40:22",
+  "logLevel": "DEBUG",
+  "service": "AuthUserService",
+  "module": "AuthModule",
+  "userID": "UserID101",
+  "action": "Invalid Login Attempt",
+  "details": "Location: IP 123.45.67.89"
+}{
+  "type": "Compliant",
+  "timestamp": "2023-09-06 10:40:22",
+  "logLevel": "DEBUG",
+  "service": "AuthUserService",
+  "module": "AuthModule",
+  "userID": "UserID101",
+  "action": "Invalid Login Attempt",
+  "details": "Location: IP 123.45.67.89"
+}
+
+
+
+
