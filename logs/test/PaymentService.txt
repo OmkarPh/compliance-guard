@@ -1,0 +1,100 @@
+2023-08-28 09:10:25 ERROR PaymentService PaymentModule UserID2122 Account Compromise Detected Account: user123
+2023-08-23 09:45:00 INFO PaymentService PaymentModule UserID2222 Payment Successful Amount: $75
+2023-08-24 13:20:30 ERROR PaymentService PaymentModule UserID1011 Payment Timeout Error TransactionID: 9876
+2023-08-21 12:15:00 INFO PaymentService PaymentModule UserID404 Payment Successful Amount: $150
+2023-08-26 09:45:00 INFO PaymentService PaymentModule UserID5252 Payment Successful Amount: $75
+2023-08-23 18:30:00 INFO PaymentService PaymentModule UserID2929 Payment Successful Amount: $400
+2023-08-31 09:10:15 ERROR PaymentService PaymentModule UserID3031 Payment Gateway API Vulnerability Gateway: GatewayW
+2023-08-25 16:15:10 ERROR PaymentService PaymentModule UserID1415 Invalid Currency Code Entered Currency: XYZ
+2023-08-24 09:45:00 INFO PaymentService PaymentModule UserID3232 Payment Successful Amount: $75
+2023-08-29 15:10:10 ERROR PaymentService PaymentModule UserID2627 Payment System Integration Failure System: ERPSystem
+2023-08-24 18:30:00 INFO PaymentService PaymentModule UserID3939 Payment Successful Amount: $400
+2023-08-25 08:30:20 ERROR PaymentService PaymentModule UserID1213 Cross-Site Scripting Attack Detected Payload: <script>alert('XSS');</script>
+2023-09-01 08:25:20 ERROR PaymentService PaymentModule UserID3334 Payment Information Phishing Attempt User: phishinguser
+2023-08-23 19:45:00 INFO PaymentService PaymentModule UserID3030 Payment Successful Amount: $450
+2023-08-27 13:30:00 INFO PaymentService PaymentModule UserID6565 Payment Successful Amount: $200
+2023-08-22 19:45:00 INFO PaymentService PaymentModule UserID2020 Payment Successful Amount: $450
+2023-08-26 08:30:00 INFO PaymentService PaymentModule UserID5151 Payment Successful Amount: $50
+2023-08-21 16:00:00 INFO PaymentService PaymentModule UserID707 Payment Successful Amount: $300
+2023-08-30 08:30:25 ERROR PaymentService PaymentModule UserID2728 Unauthorized Card Number Storage CardNumber: 2345-6789-0123-4567
+
+2023-08-27 14:45:00 INFO PaymentService PaymentModule UserID6666 Payment Successful Amount: $250
+2023-08-21 19:45:00 INFO PaymentService PaymentModule UserID1010 Payment Successful Amount: $450
+2023-08-23 12:15:00 INFO PaymentService PaymentModule UserID2424 Payment Successful Amount: $150
+2023-08-24 17:15:00 INFO PaymentService PaymentModule UserID3838 Payment Successful Amount: $350
+2023-08-24 14:45:00 INFO PaymentService PaymentModule UserID3636 Payment Successful Amount: $250
+2023-08-22 09:45:00 INFO PaymentService PaymentModule UserID1212 Payment Successful Amount: $75
+2023-08-23 18:10:07 ERROR PaymentService PaymentModule UserID808 Invalid Payment Amount Entered Amount: $999999
+2023-08-27 16:00:00 INFO PaymentService PaymentModule UserID6767 Payment Successful Amount: $300
+2023-08-26 09:25:30 ERROR PaymentService PaymentModule UserID1516 Insider Threat Detected Employee: John_Doe
+2023-08-31 15:40:55 ERROR PaymentService PaymentModule UserID3233 Malicious Transaction Request Attempt TransactionID: 5678
+2023-08-27 09:45:00 INFO PaymentService PaymentModule UserID6262 Payment Successful Amount: $75
+2023-08-21 13:30:00 INFO PaymentService PaymentModule UserID505 Payment Successful Amount: $200
+2023-08-26 13:10:45 ERROR PaymentService PaymentModule UserID1617 Duplicate Transaction Detected TransactionID: 1234
+2023-08-25 13:30:00 INFO PaymentService PaymentModule UserID4545 Payment Successful Amount: $200
+2023-08-22 16:00:00 INFO PaymentService PaymentModule UserID1717 Payment Successful Amount: $300
+2023-08-27 11:00:00 INFO PaymentService PaymentModule UserID6363 Payment Successful Amount: $100
+2023-08-23 08:30:00 INFO PaymentService PaymentModule UserID2121 Payment Successful Amount: $50
+2023-08-23 16:00:00 INFO PaymentService PaymentModule UserID2727 Payment Successful Amount: $300
+2023-08-22 11:00:00 INFO PaymentService PaymentModule UserID1313 Payment Successful Amount: $100
+2023-08-26 14:45:00 INFO PaymentService PaymentModule UserID5656 Payment Successful Amount: $250
+2023-08-24 11:00:00 INFO PaymentService PaymentModule UserID3333 Payment Successful Amount: $100
+2023-08-24 16:00:00 INFO PaymentService PaymentModule UserID3737 Payment Successful Amount: $300
+2023-08-23 11:00:00 INFO PaymentService PaymentModule UserID2323 Payment Successful Amount: $100
+2023-08-26 12:15:00 INFO PaymentService PaymentModule UserID5454 Payment Successful Amount: $150
+2023-08-24 13:30:00 INFO PaymentService PaymentModule UserID3535 Payment Successful Amount: $200
+2023-08-23 14:55:40 ERROR PaymentService PaymentModule UserID404 Payment Gateway Connection Failure Gateway: GatewayX
+2023-08-24 12:15:00 INFO PaymentService PaymentModule UserID3434 Payment Successful Amount: $150
+2023-08-23 17:15:00 INFO PaymentService PaymentModule UserID2828 Payment Successful Amount: $350
+2023-08-25 14:45:00 INFO PaymentService PaymentModule UserID4646 Payment Successful Amount: $250
+2023-08-25 18:30:00 INFO PaymentService PaymentModule UserID4949 Payment Successful Amount: $400
+2023-08-23 09:45:22 ERROR PaymentService PaymentModule UserID101 Unauthorized Access Attempt IP: 192.168.1.100
+2023-08-25 09:45:00 INFO PaymentService PaymentModule UserID4242 Payment Successful Amount: $75
+2023-08-30 14:20:05 ERROR PaymentService PaymentModule UserID2930 Payment Verification Timeout TransactionID: 3456
+2023-08-22 13:30:00 INFO PaymentService PaymentModule UserID1515 Payment Successful Amount: $200
+2023-08-21 08:30:00 INFO PaymentService PaymentModule UserID101 Payment Successful Amount: $50
+2023-08-22 12:15:00 INFO PaymentService PaymentModule UserID1414 Payment Successful Amount: $150
+2023-08-29 12:20:55 ERROR PaymentService PaymentModule UserID2526 Denial of Service Attack Attempt Source IP: 87.65.43.21
+2023-08-24 19:45:00 INFO PaymentService PaymentModule UserID4040 Payment Successful Amount: $450
+2023-08-21 17:15:00 INFO PaymentService PaymentModule UserID808 Payment Successful Amount: $350
+2023-08-25 11:00:00 INFO PaymentService PaymentModule UserID4343 Payment Successful Amount: $100
+2023-08-24 08:30:00 INFO PaymentService PaymentModule UserID3131 Payment Successful Amount: $50
+2023-08-24 15:45:55 ERROR PaymentService PaymentModule UserID1112 Payment Information Tampering Detected CardNumber: 5678-9012-3456-7890
+2023-08-26 11:00:00 INFO PaymentService PaymentModule UserID5353 Payment Successful Amount: $100
+2023-08-22 08:30:00 INFO PaymentService PaymentModule UserID1111 Payment Successful Amount: $50
+2023-08-28 11:40:40 ERROR PaymentService PaymentModule UserID2223 Payment Reversal Error ReversalID: 789012
+2023-08-31 12:30:30 ERROR PaymentService PaymentModule UserID3132 Account Balance Discrepancy Detected Account: user456
+2023-08-21 09:45:00 INFO PaymentService PaymentModule UserID202 Payment Successful Amount: $75
+2023-08-23 13:30:00 INFO PaymentService PaymentModule UserID2525 Payment Successful Amount: $200
+2023-08-27 08:30:00 INFO PaymentService PaymentModule UserID6161 Payment Successful Amount: $50
+2023-08-23 12:30:15 ERROR PaymentService PaymentModule UserID303 Data Breach Detected Database Table: CustomerInfo
+2023-08-25 12:15:00 INFO PaymentService PaymentModule UserID4444 Payment Successful Amount: $150
+2023-08-26 17:15:00 INFO PaymentService PaymentModule UserID5858 Payment Successful Amount: $350
+2023-08-26 18:30:00 INFO PaymentService PaymentModule UserID5959 Payment Successful Amount: $400
+2023-08-26 17:20:05 ERROR PaymentService PaymentModule UserID1718 Payment Processing Malfunction Gateway: GatewayY
+2023-08-24 10:05:12 ERROR PaymentService PaymentModule UserID909 Suspicious Purchase Pattern Detected Frequent Large Transactions
+2023-08-29 09:05:30 ERROR PaymentService PaymentModule UserID2425 SQL Injection Attempt Detected Input: ' OR '1'='1
+2023-08-22 17:15:00 INFO PaymentService PaymentModule UserID1818 Payment Successful Amount: $350
+2023-08-26 13:30:00 INFO PaymentService PaymentModule UserID5555 Payment Successful Amount: $200
+2023-08-27 15:30:15 ERROR PaymentService PaymentModule UserID2021 Transaction Data Corruption TransactionID: 4567
+2023-08-25 11:50:40 ERROR PaymentService PaymentModule UserID1314 Fraudulent Account Creation Detected IP: 123.456.789.012
+2023-08-26 19:45:00 INFO PaymentService PaymentModule UserID6060 Payment Successful Amount: $450
+2023-08-30 11:45:40 ERROR PaymentService PaymentModule UserID2829 Suspicious Payment Location Detected Country: Unknown
+2023-08-27 19:45:00 INFO PaymentService PaymentModule UserID7070 Payment Successful Amount: $450
+2023-08-25 17:15:00 INFO PaymentService PaymentModule UserID4848 Payment Successful Amount: $350
+2023-08-23 14:45:00 INFO PaymentService PaymentModule UserID2626 Payment Successful Amount: $250
+2023-08-25 19:45:00 INFO PaymentService PaymentModule UserID5050 Payment Successful Amount: $450
+2023-08-22 14:45:00 INFO PaymentService PaymentModule UserID1616 Payment Successful Amount: $250
+2023-08-22 18:30:00 INFO PaymentService PaymentModule UserID1919 Payment Successful Amount: $400
+2023-08-25 08:30:00 INFO PaymentService PaymentModule UserID4141 Payment Successful Amount: $50
+2023-08-27 12:55:50 ERROR PaymentService PaymentModule UserID1920 Payment Information Leakage PaymentID: 567890
+2023-08-21 14:45:00 INFO PaymentService PaymentModule UserID606 Payment Successful Amount: $250
+2023-08-25 16:00:00 INFO PaymentService PaymentModule UserID4747 Payment Successful Amount: $300
+2023-08-27 10:40:30 ERROR PaymentService PaymentModule UserID1819 Unauthorized API Access Attempt Endpoint: /api/processPayment
+2023-08-28 14:15:05 ERROR PaymentService PaymentModule UserID2324 Payment Gateway Misconfiguration Gateway: GatewayZ
+2023-08-26 16:00:00 INFO PaymentService PaymentModule UserID5757 Payment Successful Amount: $300
+2023-08-21 18:30:00 INFO PaymentService PaymentModule UserID909 Payment Successful Amount: $400
+2023-08-21 11:00:00 INFO PaymentService PaymentModule UserID303 Payment Successful Amount: $100
+2023-08-27 17:15:00 INFO PaymentService PaymentModule UserID6868 Payment Successful Amount: $350
+2023-08-27 12:15:00 INFO PaymentService PaymentModule UserID6464 Payment Successful Amount: $150
+2023-08-27 18:30:00 INFO PaymentService PaymentModule UserID6969 Payment Successful Amount: $400

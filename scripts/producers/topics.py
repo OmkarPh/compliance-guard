@@ -1,7 +1,9 @@
 # Log topics
 log_level_topics = {
-  "info": "info-logs",
-  "error": "error-logs",
-  "debug": "debug-logs",
-  "warn": "warn-logs",
+  "auth": "AuthUserService",
+  "shipping": "ShippingService",
+  "payment": "PaymentService",
+  "cart": "CartService",
+  "order": "OrderService",
+  "product": "ProductService"
 }

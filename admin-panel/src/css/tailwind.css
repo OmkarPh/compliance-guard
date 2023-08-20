@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ag-theme-alpine .ag-header-cell {
+  font-size: 48px;
+}

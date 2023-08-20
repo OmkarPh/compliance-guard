@@ -1,0 +1,103 @@
+Compliant 2023-08-30 11:45:00 INFO AuthUserService AuthModule UserID6868 Password Change Successful User: mary_adams
+Compliant 2023-08-30 10:30:00 INFO AuthUserService AuthModule UserID6767 User Logout User: robert_jones
+Not Compliant 2023-08-27 10:00:20 ERROR AuthUserService AuthModule UserID1010 Account Lockout Evasion UserID: 567
+Not Compliant 2023-08-28 10:05:05 ERROR AuthUserService AuthModule UserID707 Account Impersonation UserID: 888
+Compliant 2023-09-21 14:30:05 INFO AuthUserService AuthModule UserID1616 Password Expiration Reminder UserID: 234
+Compliant 2023-08-27 16:45:00 INFO AuthUserService AuthModule UserID5555 User Login Successful User: david_smith
+Compliant 2023-08-28 09:15:00 INFO AuthUserService AuthModule UserID5454 User Login Successful User: linda_adams
+Compliant 2023-08-31 14:15:00 INFO AuthUserService AuthModule UserID7676 Password Reset Successful User: patricia_smith
+Compliant 2023-08-31 13:00:00 INFO AuthUserService AuthModule UserID7575 User Login Successful User: thomas_wilson
+Compliant 2023-10-07 16:55:10 INFO AuthUserService AuthModule UserID3232 Password Expiration Reminder UserID: 456
+Compliant 2023-09-27 11:40:05 INFO AuthUserService AuthModule UserID2222 Security Question Set UserID: 234
+Compliant 2023-08-27 18:00:00 INFO AuthUserService AuthModule UserID5656 Password Change Successful User: sophia_williams
+Compliant 2023-08-30 14:15:00 INFO AuthUserService AuthModule UserID7070 Password Reset Successful User: patricia_smith
+Compliant 2023-09-28 09:30:30 INFO AuthUserService AuthModule UserID2323 User Session Started UserID: 567
+Compliant 2023-08-26 15:30:00 INFO AuthUserService AuthModule UserID4545 User Logout User: andrew_jackson
+Compliant 2023-08-30 09:15:00 INFO AuthUserService AuthModule UserID6666 User Login Successful User: linda_adams
+Compliant 2023-08-30 13:00:00 INFO AuthUserService AuthModule UserID6969 User Login Successful User: thomas_wilson
+Compliant 2023-08-27 14:15:00 INFO AuthUserService AuthModule UserID5353 Password Reset Successful User: andrew_wilson
+Not Compliant 2023-08-29 14:40:20 ERROR AuthUserService AuthModule UserID1010 Account Lockout due to Suspicious Activity UserID: 222
+Not Compliant 2023-08-27 12:20:50 ERROR AuthUserService AuthModule UserID606 Insider Threat Alert UserID: 777
+Compliant 2023-09-29 15:15:10 INFO AuthUserService AuthModule UserID2424 Password Expiration Reminder UserID: 890
+Not Compliant 2023-08-29 16:15:18 ERROR AuthUserService AuthModule UserID1515 Data Breach Attempt UserID: 234
+Compliant 2023-08-27 13:00:00 INFO AuthUserService AuthModule UserID5252 User Login Successful User: emily_adams
+Compliant 2023-09-16 09:55:40 INFO AuthUserService AuthModule UserID1111 Account Deactivated UserID: 567
+Compliant 2023-08-27 11:45:00 INFO AuthUserService AuthModule UserID5151 Password Change Successful User: mike_jones
+Not Compliant 2023-08-26 16:45:08 ERROR AuthUserService AuthModule UserID909 Unauthenticated Access Attempt UserID: 234
+Compliant 2023-08-27 14:15:00 INFO AuthUserService AuthModule UserID5252 Password Reset Successful User: patricia_smith
+Compliant 2023-10-09 14:15:20 INFO AuthUserService AuthModule UserID3434 User Session Ended UserID: 234
+Not Compliant 2023-08-29 11:15:00 ERROR AuthUserService AuthModule UserID909 Brute Force Attack Detected UserID: 111
+Compliant 2023-08-28 13:00:00 INFO AuthUserService AuthModule UserID5757 User Login Successful User: thomas_wilson
+Not Compliant 2023-08-28 09:30:40 ERROR AuthUserService AuthModule UserID1212 Insider Threat Detected UserID: 345
+Compliant 2023-09-22 09:45:40 INFO AuthUserService AuthModule UserID1717 Two-Factor Authentication Enabled UserID: 567
+Not Compliant 2023-08-26 15:10:15 ERROR AuthUserService AuthModule UserID404 Privilege Escalation Attempt UserID: 555
+Compliant 2023-08-29 09:15:00 INFO AuthUserService AuthModule UserID6060 User Login Successful User: linda_adams
+Compliant 2023-08-26 16:45:00 INFO AuthUserService AuthModule UserID4747 User Login Successful User: david_smith
+Compliant 2023-08-26 15:30:00 INFO AuthUserService AuthModule UserID4646 User Logout User: sarah_brown
+Compliant 2023-09-23 12:20:10 INFO AuthUserService AuthModule UserID1818 User Session Ended UserID: 890
+Compliant 2023-08-29 14:15:00 INFO AuthUserService AuthModule UserID6464 Password Reset Successful User: patricia_smith
+Compliant 2023-10-05 12:15:20 INFO AuthUserService AuthModule UserID3030 Security Question Set UserID: 890
+Not Compliant 2023-08-26 11:25:40 ERROR AuthUserService AuthModule UserID303 Suspicious IP Activity UserID: 444
+Not Compliant 2023-08-27 12:15:15 ERROR AuthUserService AuthModule UserID1111 Privilege Escalation Attempt UserID: 890
+Compliant 2023-08-29 10:30:00 INFO AuthUserService AuthModule UserID6161 User Logout User: robert_jones
+Compliant 2023-08-28 15:30:00 INFO AuthUserService AuthModule UserID5959 User Logout User: christopher_miller
+Compliant 2023-09-17 13:25:10 INFO AuthUserService AuthModule UserID1212 Account Reactivated UserID: 890
+Compliant 2023-08-26 16:45:00 INFO AuthUserService AuthModule UserID4646 User Login Successful User: elizabeth_taylor
+Not Compliant 2023-08-25 09:30:45 ERROR AuthUserService AuthModule UserID505 Suspicious Password Reset UserID: 123
+Compliant 2023-10-10 11:25:30 INFO AuthUserService AuthModule UserID3535 Account Deactivated UserID: 567
+Compliant 2023-08-27 11:45:00 INFO AuthUserService AuthModule UserID5050 Password Change Successful User: mary_adams
+Compliant 2023-08-26 18:00:00 INFO AuthUserService AuthModule UserID4848 Password Change Successful User: sophia_williams
+Not Compliant 2023-08-28 13:30:25 ERROR AuthUserService AuthModule UserID808 Unusual Account Activity UserID: 999
+Compliant 2023-09-19 15:40:20 INFO AuthUserService AuthModule UserID1414 Security Question Set UserID: 456
+Compliant 2023-09-12 08:45:20 INFO AuthUserService AuthModule UserID606 User Session Started UserID: 123
+Compliant 2023-08-26 14:15:00 INFO AuthUserService AuthModule UserID4444 Password Reset Successful User: michael_johnson
+Compliant 2023-08-30 15:30:00 INFO AuthUserService AuthModule UserID7171 User Logout User: christopher_miller
+Compliant 2023-09-01 13:00:00 INFO AuthUserService AuthModule UserID8181 User Login Successful User: thomas_wilson
+Compliant 2023-08-29 11:45:00 INFO AuthUserService AuthModule UserID6262 Password Change Successful User: mary_adams
+Compliant 2023-09-30 08:20:20 INFO AuthUserService AuthModule UserID2525 Two-Factor Authentication Enabled UserID: 123
+Compliant 2023-08-21 10:30:00 INFO AuthUserService AuthModule UserID202 User Logout User: jane_smith
+Compliant 2023-10-03 17:25:50 INFO AuthUserService AuthModule UserID2828 Account Reactivated UserID: 234
+Compliant 2023-08-27 10:30:00 INFO AuthUserService AuthModule UserID5050 User Logout User: jane_smith
+Compliant 2023-08-26 14:15:00 INFO AuthUserService AuthModule UserID4545 Password Reset Successful User: andrew_wilson
+Compliant 2023-08-27 15:30:00 INFO AuthUserService AuthModule UserID5454 User Logout User: sarah_brown
+Not Compliant 2023-08-25 11:15:12 ERROR AuthUserService AuthModule UserID707 Unauthorized User Activity UserID: 456
+Compliant 2023-08-29 13:00:00 INFO AuthUserService AuthModule UserID6363 User Login Successful User: thomas_wilson
+Compliant 2023-08-29 15:30:00 INFO AuthUserService AuthModule UserID6565 User Logout User: christopher_miller
+Not Compliant 2023-08-28 11:45:25 ERROR AuthUserService AuthModule UserID1313 Cross-Site Scripting (XSS) Attack UserID: 678
+Not Compliant 2023-08-29 14:30:10 ERROR AuthUserService AuthModule UserID1414 Abnormal User Behavior Detected UserID: 901
+Compliant 2023-09-01 14:15:00 INFO AuthUserService AuthModule UserID8282 Password Reset Successful User: patricia_smith
+Compliant 2023-08-27 13:00:00 INFO AuthUserService AuthModule UserID5151 User Login Successful User: thomas_wilson
+Compliant 2023-09-26 13:25:50 INFO AuthUserService AuthModule UserID2121 Password Expiry Extended UserID: 789
+Compliant 2023-08-31 11:45:00 INFO AuthUserService AuthModule UserID7474 Password Change Successful User: mary_adams
+Compliant 2023-09-15 17:30:05 INFO AuthUserService AuthModule UserID1010 User Session Ended UserID: 234
+Compliant 2023-09-25 10:55:20 INFO AuthUserService AuthModule UserID2020 Account Reactivated UserID: 456
+Compliant 2023-10-08 08:40:50 INFO AuthUserService AuthModule UserID3333 Two-Factor Authentication Enabled UserID: 789
+Compliant 2023-08-28 11:45:00 INFO AuthUserService AuthModule UserID5656 Password Change Successful User: mary_adams
+Compliant 2023-09-18 10:05:30 INFO AuthUserService AuthModule UserID1313 Password Expiry Extended UserID: 123
+Compliant 2023-09-24 17:05:30 INFO AuthUserService AuthModule UserID1919 Account Deactivated UserID: 123
+Compliant 2023-08-21 09:15:00 INFO AuthUserService AuthModule UserID101 User Login Successful User: john_doe
+Compliant 2023-09-01 10:30:00 INFO AuthUserService AuthModule UserID7979 User Logout User: robert_jones
+Compliant 2023-09-01 11:45:00 INFO AuthUserService AuthModule UserID8080 Password Change Successful User: mary_adams
+Compliant 2023-08-28 14:15:00 INFO AuthUserService AuthModule UserID5858 Password Reset Successful User: patricia_smith
+Compliant 2023-08-27 09:15:00 INFO AuthUserService AuthModule UserID4949 User Login Successful User: john_doe
+Compliant 2023-10-02 11:05:30 INFO AuthUserService AuthModule UserID2727 Account Deactivated UserID: 789
+Compliant 2023-10-06 10:30:30 INFO AuthUserService AuthModule UserID3131 User Session Started UserID: 123
+Compliant 2023-08-31 15:30:00 INFO AuthUserService AuthModule UserID7777 User Logout User: christopher_miller
+Compliant 2023-08-31 10:30:00 INFO AuthUserService AuthModule UserID7373 User Logout User: robert_jones
+Not Compliant 2023-08-26 14:30:30 ERROR AuthUserService AuthModule UserID808 Password Expiry Bypass UserID: 789
+Compliant 2023-08-28 10:30:00 INFO AuthUserService AuthModule UserID5555 User Logout User: robert_jones
+Not Compliant 2023-08-25 14:55:10 ERROR AuthUserService AuthModule UserID202 Password Exposure in Logs UserID: 333
+Compliant 2023-08-31 09:15:00 INFO AuthUserService AuthModule UserID7272 User Login Successful User: linda_adams
+Not Compliant 2023-08-27 09:45:30 ERROR AuthUserService AuthModule UserID505 Account Information Leakage UserID: 666
+Compliant 2023-08-26 18:00:00 INFO AuthUserService AuthModule UserID4747 Password Change Successful User: william_johnson
+Compliant 2023-10-01 14:10:05 INFO AuthUserService AuthModule UserID2626 User Session Ended UserID: 456
+Compliant 2023-08-27 10:30:00 INFO AuthUserService AuthModule UserID4949 User Logout User: robert_jones
+Compliant 2023-08-27 15:30:00 INFO AuthUserService AuthModule UserID5353 User Logout User: christopher_miller
+Compliant 2023-09-01 15:30:00 INFO AuthUserService AuthModule UserID8383 User Logout User: christopher_miller
+Compliant 2023-09-14 11:20:15 INFO AuthUserService AuthModule UserID909 Two-Factor Authentication Enabled UserID: 789
+Not Compliant 2023-08-25 09:20:45 ERROR AuthUserService AuthModule UserID101 Unauthorized Access Attempt UserID: 222
+Compliant 2023-08-27 09:15:00 INFO AuthUserService AuthModule UserID4848 User Login Successful User: linda_williams
+Compliant 2023-09-20 08:15:50 INFO AuthUserService AuthModule UserID1515 User Session Started UserID: 789
+Compliant 2023-09-01 09:15:00 INFO AuthUserService AuthModule UserID7878 User Login Successful User: linda_adams
+Compliant 2023-10-04 09:40:10 INFO AuthUserService AuthModule UserID2929 Password Expiry Extended UserID: 567
+Compliant 2023-09-13 14:10:50 INFO AuthUserService AuthModule UserID707 Password Expiration Reminder UserID: 456

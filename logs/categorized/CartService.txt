@@ -1,0 +1,97 @@
+Compliant 2023-09-18 10:10:58 INFO CartService CartModule UserID505 Cart Subtotal Calculated CartID: 123 Subtotal: $50
+Compliant 2023-11-30 14:30:18 INFO CartService CartModule UserID1818 Item Added to Cart CartID: 234
+Compliant 2023-11-21 16:15:20 INFO CartService CartModule UserID1313 Cart Subtotal Calculated CartID: 901 Subtotal: $85
+Compliant 2023-10-20 12:30:10 INFO CartService CartModule UserID1919 Cart Emptied CartID: 678
+Compliant 2023-11-24 14:05:30 INFO CartService CartModule UserID1515 Cart Emptied CartID: 678
+Compliant 2023-10-14 18:20:45 INFO CartService CartModule UserID1616 Cart Checked Out CartID: 456 Total: $80
+Not Compliant 2023-09-23 09:35:40 ERROR CartService CartModule UserID1414 Suspicious Cart Content CartID: 567
+Compliant 2023-09-26 12:45:55 INFO CartService CartModule UserID909 Cart Emptied CartID: 456
+Compliant 2023-11-15 08:20:40 INFO CartService CartModule UserID1111 Cart Subtotal Calculated CartID: 890 Subtotal: $40
+Compliant 2023-10-06 17:25:22 INFO CartService CartModule UserID1212 Cart Checked Out CartID: 890 Total: $90
+Compliant 2023-10-29 17:30:45 INFO CartService CartModule UserID505 Cart Subtotal Calculated CartID: 567 Subtotal: $80
+Not Compliant 2023-11-18 09:20:25 ERROR CartService CartModule UserID3535 Suspicious Cart Content CartID: 234
+Not Compliant 2023-11-08 17:30:29 ERROR CartService CartModule UserID3131 Suspicious Cart Activity CartTotal: $90
+Not Compliant 2023-10-04 10:45:05 ERROR CartService CartModule UserID1818 Abnormal Cart Content CartID: 678
+Compliant 2023-11-12 17:25:22 INFO CartService CartModule UserID1010 Cart Checked Out CartID: 901 Total: $110
+Compliant 2023-11-14 15:55:03 INFO CartService CartModule UserID1111 Cart Emptied CartID: 678
+Not Compliant 2023-09-21 08:05:50 ERROR CartService CartModule UserID1313 Abnormal Purchase Frequency CartTotal: $1500
+Not Compliant 2023-10-14 11:10:33 ERROR CartService CartModule UserID2222 Suspicious Cart Content CartID: 789
+Not Compliant 2023-09-28 14:50:17 ERROR CartService CartModule UserID1616 Unauthorized Cart Modifications CartID: 345
+Not Compliant 2023-09-18 15:10:08 ERROR CartService CartModule UserID1212 Unauthorized Cart Access CartID: 234
+Compliant 2023-09-25 14:10:10 INFO CartService CartModule UserID808 Cart Checked Out CartID: 123 Total: $40
+Compliant 2023-11-02 12:45:55 INFO CartService CartModule UserID707 Cart Emptied CartID: 456
+Compliant 2023-09-16 16:25:03 INFO CartService CartModule UserID505 Cart Emptied CartID: 890
+Not Compliant 2023-10-28 15:55:22 ERROR CartService CartModule UserID2727 Unusual Cart Checkout CartTotal: $600
+Compliant 2023-09-28 10:55:30 INFO CartService CartModule UserID909 Cart Subtotal Calculated CartID: 789 Subtotal: $80
+Not Compliant 2023-09-07 14:20:30 ERROR CartService CartModule UserID808 Abnormal Cart Checkout CartTotal: $10000
+Not Compliant 2023-10-25 13:30:29 ERROR CartService CartModule UserID2626 Suspicious Cart Content CartID: 678
+Compliant 2023-11-06 16:20:18 INFO CartService CartModule UserID808 Item Added to Cart CartID: 567
+Not Compliant 2023-11-13 13:15:11 ERROR CartService CartModule UserID3333 Unauthorized Cart Access CartID: 123
+Compliant 2023-10-12 12:50:37 INFO CartService CartModule UserID1515 Cart Emptied CartID: 678
+Compliant 2023-10-23 16:25:03 INFO CartService CartModule UserID303 Cart Emptied CartID: 890
+Compliant 2023-10-08 08:20:40 INFO CartService CartModule UserID1313 Cart Subtotal Calculated CartID: 456 Subtotal: $70
+Compliant 2023-11-20 12:50:37 INFO CartService CartModule UserID1313 Cart Emptied CartID: 789
+Compliant 2023-09-16 08:45:12 INFO CartService CartModule UserID404 Cart Checked Out CartID: 567 Total: $75
+Compliant 2023-10-25 10:10:58 INFO CartService CartModule UserID303 Cart Subtotal Calculated CartID: 123 Subtotal: $30
+Compliant 2023-09-20 19:55:37 INFO CartService CartModule UserID606 Cart Checked Out CartID: 901 Total: $30
+Compliant 2023-11-18 14:30:18 INFO CartService CartModule UserID1212 Item Added to Cart CartID: 123
+
+Compliant 2023-10-22 14:30:40 INFO CartService CartModule UserID202 Item Added to Cart CartID: 234
+Compliant 2023-10-10 14:30:18 INFO CartService CartModule UserID1414 Item Added to Cart CartID: 789
+Compliant 2023-09-22 17:30:45 INFO CartService CartModule UserID707 Cart Subtotal Calculated CartID: 567 Subtotal: $100
+Not Compliant 2023-09-10 16:55:22 ERROR CartService CartModule UserID909 Suspicious Cart Content CartID: 456
+Compliant 2023-11-25 09:10:18 INFO CartService CartModule UserID1515 Cart Subtotal Calculated CartID: 890 Subtotal: $75
+Compliant 2023-11-18 20:40:25 INFO CartService CartModule UserID1212 Cart Checked Out CartID: 456 Total: $70
+Not Compliant 2023-09-15 11:25:33 ERROR CartService CartModule UserID1111 Unusual Cart Modifications CartTotal: $300
+Not Compliant 2023-10-12 14:30:42 ERROR CartService CartModule UserID2121 Abnormal Cart Checkout CartTotal: $9000
+Compliant 2023-10-16 14:05:30 INFO CartService CartModule UserID1717 Cart Emptied CartID: 789
+Compliant 2023-10-27 19:55:37 INFO CartService CartModule UserID404 Cart Checked Out CartID: 901 Total: $45
+Compliant 2023-10-28 11:15:18 INFO CartService CartModule UserID505 Cart Emptied CartID: 234
+Not Compliant 2023-11-02 08:25:33 ERROR CartService CartModule UserID2929 Abnormal Cart Content CartTotal: $2000
+Compliant 2023-11-06 21:40:05 INFO CartService CartModule UserID808 Cart Checked Out CartID: 901 Total: $90
+Compliant 2023-09-15 14:30:40 INFO CartService CartModule UserID404 Item Added to Cart CartID: 234
+Not Compliant 2023-11-05 09:35:40 ERROR CartService CartModule UserID3030 Excessive Cart Items CartID: 890
+Compliant 2023-11-26 20:45:22 INFO CartService CartModule UserID1616 Cart Checked Out CartID: 456 Total: $95
+Compliant 2023-11-01 09:20:30 INFO CartService CartModule UserID606 Item Added to Cart CartID: 890
+Compliant 2023-10-10 20:40:25 INFO CartService CartModule UserID1414 Cart Checked Out CartID: 901 Total: $110
+Compliant 2023-10-23 08:45:12 INFO CartService CartModule UserID202 Cart Checked Out CartID: 567 Total: $65
+Compliant 2023-10-13 16:15:20 INFO CartService CartModule UserID1515 Cart Subtotal Calculated CartID: 890 Subtotal: $30
+Compliant 2023-10-20 18:55:48 INFO CartService CartModule UserID1919 Cart Subtotal Calculated CartID: 890 Subtotal: $85
+Compliant 2023-09-25 09:20:30 INFO CartService CartModule UserID808 Item Added to Cart CartID: 890
+Compliant 2023-10-07 15:55:03 INFO CartService CartModule UserID1313 Cart Emptied CartID: 123
+Compliant 2023-09-30 21:40:05 INFO CartService CartModule UserID1010 Cart Checked Out CartID: 901 Total: $120
+Compliant 2023-10-27 13:40:22 INFO CartService CartModule UserID404 Item Added to Cart CartID: 678
+Compliant 2023-10-03 19:15:48 INFO CartService CartModule UserID1111 Cart Subtotal Calculated CartID: 567 Subtotal: $60
+Not Compliant 2023-10-17 16:25:18 ERROR CartService CartModule UserID2323 Unusual Cart Modifications CartTotal: $400
+Not Compliant 2023-09-13 12:40:15 ERROR CartService CartModule UserID1010 Excessive Cart Items CartID: 789
+Compliant 2023-09-20 13:40:22 INFO CartService CartModule UserID606 Item Added to Cart CartID: 678
+Compliant 2023-10-17 09:10:18 INFO CartService CartModule UserID1717 Cart Subtotal Calculated CartID: 901 Subtotal: $95
+Compliant 2023-10-18 16:20:55 INFO CartService CartModule UserID1818 Item Added to Cart CartID: 234
+Compliant 2023-11-22 18:20:45 INFO CartService CartModule UserID1414 Cart Checked Out CartID: 123 Total: $50
+Compliant 2023-11-01 14:10:10 INFO CartService CartModule UserID606 Cart Checked Out CartID: 123 Total: $20
+Compliant 2023-11-04 10:55:30 INFO CartService CartModule UserID707 Cart Subtotal Calculated CartID: 789 Subtotal: $60
+Compliant 2023-10-14 10:40:10 INFO CartService CartModule UserID1616 Item Added to Cart CartID: 123
+Not Compliant 2023-11-16 10:45:05 ERROR CartService CartModule UserID3434 Abnormal Cart Checkout CartTotal: $8000
+Not Compliant 2023-10-30 12:40:15 ERROR CartService CartModule UserID2828 Unauthorized Cart Modifications CartID: 789
+Compliant 2023-11-22 10:40:10 INFO CartService CartModule UserID1414 Item Added to Cart CartID: 234
+Compliant 2023-10-02 13:10:32 INFO CartService CartModule UserID1111 Cart Emptied CartID: 234
+Not Compliant 2023-09-05 09:45:12 ERROR CartService CartModule UserID707 Unauthorized Cart Modifications CartID: 123
+Compliant 2023-10-06 11:30:15 INFO CartService CartModule UserID1212 Item Added to Cart CartID: 678
+Compliant 2023-09-21 11:15:18 INFO CartService CartModule UserID707 Cart Emptied CartID: 234
+Not Compliant 2023-10-20 10:40:08 ERROR CartService CartModule UserID2424 Unauthorized Cart Access CartID: 567
+Compliant 2023-09-30 16:20:18 INFO CartService CartModule UserID1010 Item Added to Cart CartID: 567
+Compliant 2023-10-18 20:45:22 INFO CartService CartModule UserID1818 Cart Checked Out CartID: 123 Total: $55
+Compliant 2023-11-28 12:30:10 INFO CartService CartModule UserID1717 Cart Emptied CartID: 789
+Compliant 2023-11-08 13:10:32 INFO CartService CartModule UserID909 Cart Emptied CartID: 234
+Not Compliant 2023-10-01 13:15:11 ERROR CartService CartModule UserID1717 Suspicious Cart Activity CartTotal: $120
+Not Compliant 2023-10-06 09:20:25 ERROR CartService CartModule UserID1919 Excessive Cart Value CartTotal: $2500
+Compliant 2023-11-26 16:20:55 INFO CartService CartModule UserID1616 Item Added to Cart CartID: 123
+Compliant 2023-11-12 11:30:15 INFO CartService CartModule UserID1010 Item Added to Cart CartID: 789
+Not Compliant 2023-10-09 15:55:28 ERROR CartService CartModule UserID2020 Unauthorized Cart Access CartID: 456
+Not Compliant 2023-09-26 17:30:29 ERROR CartService CartModule UserID1515 Unusual Cart Checkout CartTotal: $750
+Compliant 2023-11-09 19:15:48 INFO CartService CartModule UserID909 Cart Subtotal Calculated CartID: 567 Subtotal: $70
+Compliant 2023-11-28 18:55:48 INFO CartService CartModule UserID1717 Cart Subtotal Calculated CartID: 901 Subtotal: $120
+Not Compliant 2023-10-22 09:15:50 ERROR CartService CartModule UserID2525 Abnormal Purchase Frequency CartTotal: $1800
+Compliant 2023-11-30 20:40:25 INFO CartService CartModule UserID1818 Cart Checked Out CartID: 123 Total: $35
+Not Compliant 2023-11-10 14:50:17 ERROR CartService CartModule UserID3232 Unusual Cart Modifications CartID: 901
+Not Compliant 2023-09-02 10:30:45 ERROR CartService CartModule UserID505 Unusual Cart Activity Detected CartTotal: $200

@@ -1,0 +1,93 @@
+Not Compliant 2023-08-26 11:45:00 ERROR ShippingService ShippingModule UserID3737 Shipping Address Change after Shipment Initiation OrderID: 1121
+Compliant 2023-08-25 10:30:00 INFO ShippingService ShippingModule UserID3434 Shipment Tracking Number Generated OrderID: 1834
+Not Compliant 2023-08-28 10:30:00 ERROR ShippingService ShippingModule UserID8282 Unauthorized Package Diversion Attempt OrderID: 1586
+Compliant 2023-08-21 13:00:00 INFO ShippingService ShippingModule UserID404 Shipment Tracking Number Generated OrderID: 912
+Compliant 2023-08-28 13:00:00 INFO ShippingService ShippingModule UserID6060 Shipment Out for Local Delivery OrderID: 2640
+Compliant 2023-08-26 09:15:00 INFO ShippingService ShippingModule UserID4141 Shipment Processing Completed OrderID: 2051
+Compliant 2023-08-27 10:30:00 INFO ShippingService ShippingModule UserID5050 Shipment Processing Initiated OrderID: 2330
+Not Compliant 2023-08-27 10:30:00 ERROR ShippingService ShippingModule UserID5858 Unauthorized Shipment to Restricted Territory OrderID: 1338
+Compliant 2023-08-26 11:45:00 INFO ShippingService ShippingModule UserID4343 Shipment Dispatched to Destination OrderID: 2113
+Compliant 2023-08-28 15:30:00 INFO ShippingService ShippingModule UserID6262 Shipment Delivered Successfully OrderID: 2702
+Not Compliant 2023-08-25 13:00:00 ERROR ShippingService ShippingModule UserID1616 Unauthorized Shipment Cancellation Attempt OrderID: 912
+Compliant 2023-08-22 11:45:00 INFO ShippingService ShippingModule UserID1111 Shipment Processing Completed OrderID: 1121
+Compliant 2023-08-22 13:00:00 INFO ShippingService ShippingModule UserID1212 Shipment Ready for Pickup OrderID: 1152
+Compliant 2023-08-24 11:45:00 INFO ShippingService ShippingModule UserID2727 Shipment Ready for Pickup OrderID: 1617
+Compliant 2023-08-27 14:15:00 INFO ShippingService ShippingModule UserID5353 Shipment Scheduled for Delivery OrderID: 2423
+Not Compliant 2023-08-27 14:15:00 ERROR ShippingService ShippingModule UserID6767 Delayed Shipment without Adequate Explanation OrderID: 1431
+Compliant 2023-08-24 18:00:00 INFO ShippingService ShippingModule UserID3232 Shipment Delivered Successfully OrderID: 1772
+Not Compliant 2023-08-25 16:45:00 ERROR ShippingService ShippingModule UserID2525 Delayed Shipment without Proper Notification OrderID: 1006
+Not Compliant 2023-08-28 13:00:00 ERROR ShippingService ShippingModule UserID8888 Address Manipulation to Exploit Shipping Discounts OrderID: 1648
+Compliant 2023-08-21 09:15:00 INFO ShippingService ShippingModule UserID101 Shipment Successfully Dispatched OrderID: 234
+Not Compliant 2023-08-25 09:15:00 ERROR ShippingService ShippingModule UserID505 Shipment Delay Due to Invalid Address OrderID: 567
+Compliant 2023-08-22 18:00:00 INFO ShippingService ShippingModule UserID1616 Shipment Scheduled for Delivery OrderID: 1276
+Compliant 2023-08-22 09:15:00 INFO ShippingService ShippingModule UserID909 Shipment Delivered to Pickup Point OrderID: 1059
+Compliant 2023-08-24 16:45:00 INFO ShippingService ShippingModule UserID3131 Shipment Scheduled for Delivery OrderID: 1741
+Not Compliant 2023-08-27 15:30:00 ERROR ShippingService ShippingModule UserID7070 Unauthorized Shipment Return Attempt OrderID: 1462
+Not Compliant 2023-08-25 11:45:00 ERROR ShippingService ShippingModule UserID1313 Incorrect Shipping Method Chosen OrderID: 890
+Not Compliant 2023-08-27 13:00:00 ERROR ShippingService ShippingModule UserID6464 Address Change after Shipment Dispatch OrderID: 1400
+Compliant 2023-08-27 18:00:00 INFO ShippingService ShippingModule UserID5656 Shipment Processing Completed OrderID: 2516
+Not Compliant 2023-08-26 14:15:00 ERROR ShippingService ShippingModule UserID4343 Shipping Label Forgery Detected OrderID: 1183
+Not Compliant 2023-08-26 13:00:00 ERROR ShippingService ShippingModule UserID4040 Unauthorized Package Intercept Attempt OrderID: 1152
+Compliant 2023-08-24 13:00:00 INFO ShippingService ShippingModule UserID2828 Shipment Dispatched to Destination OrderID: 1648
+Compliant 2023-08-21 18:00:00 INFO ShippingService ShippingModule UserID808 Shipment Scheduled for Delivery OrderID: 1028
+Compliant 2023-08-25 13:00:00 INFO ShippingService ShippingModule UserID3636 Shipment Picked Up from Warehouse OrderID: 1896
+Not Compliant 2023-08-26 09:15:00 ERROR ShippingService ShippingModule UserID3131 Incorrect Package Contents Declaration OrderID: 1059
+Not Compliant 2023-08-27 09:15:00 ERROR ShippingService ShippingModule UserID5555 Undeclared Hazardous Materials Shipment OrderID: 1307
+Not Compliant 2023-08-28 11:45:00 ERROR ShippingService ShippingModule UserID8585 Shipment Sent to Incorrect Distribution Center OrderID: 1617
+Compliant 2023-08-24 15:30:00 INFO ShippingService ShippingModule UserID3030 Shipment Out for Local Delivery OrderID: 1710
+Not Compliant 2023-08-27 18:00:00 ERROR ShippingService ShippingModule UserID7676 Shipment Handoff to Unverified Third Party OrderID: 1524
+Compliant 2023-08-27 16:45:00 INFO ShippingService ShippingModule UserID5555 Shipment Out for Local Delivery OrderID: 2485
+Compliant 2023-08-23 11:45:00 INFO ShippingService ShippingModule UserID1919 Shipment Tracking Number Generated OrderID: 1369
+Compliant 2023-08-25 09:15:00 INFO ShippingService ShippingModule UserID3333 Shipment Out for Delivery OrderID: 1803
+Not Compliant 2023-08-28 14:15:00 ERROR ShippingService ShippingModule UserID9191 Undeclared High-Value Items in Shipment OrderID: 1679
+Compliant 2023-08-27 15:30:00 INFO ShippingService ShippingModule UserID5454 Shipment Delivered to Pickup Point OrderID: 2454
+Not Compliant 2023-08-26 10:30:00 ERROR ShippingService ShippingModule UserID3434 Shipment Handoff to Unauthorized Carrier OrderID: 1090
+Compliant 2023-08-21 11:45:00 INFO ShippingService ShippingModule UserID303 Shipment Delivered Successfully OrderID: 890
+Compliant 2023-08-26 15:30:00 INFO ShippingService ShippingModule UserID4646 Shipment Scheduled for Delivery OrderID: 2206
+Compliant 2023-08-22 10:30:00 INFO ShippingService ShippingModule UserID1010 Shipment Out for Local Delivery OrderID: 1090
+Compliant 2023-08-26 13:00:00 INFO ShippingService ShippingModule UserID4444 Shipment In Transit to Next Hub OrderID: 2144
+Compliant 2023-08-28 09:15:00 INFO ShippingService ShippingModule UserID5757 Shipment Ready for Pickup OrderID: 2547
+Compliant 2023-08-23 13:00:00 INFO ShippingService ShippingModule UserID2020 Shipment Processing Initiated OrderID: 1400
+
+Compliant 2023-08-23 14:15:00 INFO ShippingService ShippingModule UserID2121 Shipment Picked Up from Warehouse OrderID: 1431
+Not Compliant 2023-08-25 15:30:00 ERROR ShippingService ShippingModule UserID2222 Address Change without Verification OrderID: 975
+Compliant 2023-08-24 10:30:00 INFO ShippingService ShippingModule UserID2626 Shipment Processing Completed OrderID: 1586
+Compliant 2023-08-22 14:15:00 INFO ShippingService ShippingModule UserID1313 Shipment Dispatched to Destination OrderID: 1183
+Compliant 2023-08-23 18:00:00 INFO ShippingService ShippingModule UserID2424 Shipment Delivered to Pickup Point OrderID: 1524
+Compliant 2023-08-25 16:45:00 INFO ShippingService ShippingModule UserID3939 Shipment Delivered to Pickup Point OrderID: 1989
+Not Compliant 2023-08-27 16:45:00 ERROR ShippingService ShippingModule UserID7373 Package Tampering Detected upon Delivery OrderID: 1493
+Compliant 2023-08-25 11:45:00 INFO ShippingService ShippingModule UserID3535 Shipment Processing Initiated OrderID: 1865
+Compliant 2023-08-26 16:45:00 INFO ShippingService ShippingModule UserID4747 Shipment Delivered Successfully OrderID: 2237
+Compliant 2023-08-24 09:15:00 INFO ShippingService ShippingModule UserID2525 Shipment Out for Local Delivery OrderID: 1555
+Compliant 2023-08-28 10:30:00 INFO ShippingService ShippingModule UserID5858 Shipment Dispatched to Destination OrderID: 2578
+Not Compliant 2023-08-28 09:15:00 ERROR ShippingService ShippingModule UserID7979 Shipment Delay without Notification OrderID: 1555
+Not Compliant 2023-08-26 15:30:00 ERROR ShippingService ShippingModule UserID4646 Parcel Mishandling Resulting in Delayed Delivery OrderID: 1214
+Not Compliant 2023-08-25 10:30:00 ERROR ShippingService ShippingModule UserID1010 Package Mishandling Resulting in Damage OrderID: 789
+Compliant 2023-08-21 16:45:00 INFO ShippingService ShippingModule UserID707 Shipment In Transit OrderID: 1006
+Compliant 2023-08-28 11:45:00 INFO ShippingService ShippingModule UserID5959 Shipment In Transit to Next Hub OrderID: 2609
+Compliant 2023-08-28 14:15:00 INFO ShippingService ShippingModule UserID6161 Shipment Scheduled for Delivery OrderID: 2671
+Compliant 2023-08-23 09:15:00 INFO ShippingService ShippingModule UserID1717 Shipment Delivered Successfully OrderID: 1307
+Not Compliant 2023-08-26 18:00:00 ERROR ShippingService ShippingModule UserID5252 Address Manipulation to Evade Customs Duties OrderID: 1276
+Compliant 2023-08-21 10:30:00 INFO ShippingService ShippingModule UserID202 Shipment Out for Delivery OrderID: 567
+Not Compliant 2023-08-25 14:15:00 ERROR ShippingService ShippingModule UserID1919 Shipping Fee Manipulation Detected OrderID: 943
+Compliant 2023-08-24 14:15:00 INFO ShippingService ShippingModule UserID2929 Shipment In Transit to Next Hub OrderID: 1679
+Compliant 2023-08-25 15:30:00 INFO ShippingService ShippingModule UserID3838 Shipment Scheduled for Delivery OrderID: 1958
+Not Compliant 2023-08-27 11:45:00 ERROR ShippingService ShippingModule UserID6161 Package Contents Discrepancy in Shipment OrderID: 1369
+Not Compliant 2023-08-26 16:45:00 ERROR ShippingService ShippingModule UserID4949 Attempted Unauthorized Package Redirect OrderID: 1245
+Compliant 2023-08-26 14:15:00 INFO ShippingService ShippingModule UserID4545 Shipment Out for Local Delivery OrderID: 2175
+Compliant 2023-08-26 10:30:00 INFO ShippingService ShippingModule UserID4242 Shipment Ready for Pickup OrderID: 2082
+Compliant 2023-08-25 14:15:00 INFO ShippingService ShippingModule UserID3737 Shipment In Transit OrderID: 1927
+Compliant 2023-08-23 10:30:00 INFO ShippingService ShippingModule UserID1818 Shipment Out for Delivery OrderID: 1338
+Compliant 2023-08-21 14:15:00 INFO ShippingService ShippingModule UserID505 Shipment Processing Initiated OrderID: 943
+Compliant 2023-08-28 16:45:00 INFO ShippingService ShippingModule UserID6363 Shipment Out for Delivery OrderID: 2733
+Compliant 2023-08-23 15:30:00 INFO ShippingService ShippingModule UserID2222 Shipment In Transit OrderID: 1462
+Compliant 2023-08-23 16:45:00 INFO ShippingService ShippingModule UserID2323 Shipment Scheduled for Delivery OrderID: 1493
+Compliant 2023-08-22 16:45:00 INFO ShippingService ShippingModule UserID1515 Shipment Out for Local Delivery OrderID: 1245
+Not Compliant 2023-08-25 18:00:00 ERROR ShippingService ShippingModule UserID2828 Package Tampering Detected in Transit OrderID: 1028
+Compliant 2023-08-26 18:00:00 INFO ShippingService ShippingModule UserID4848 Shipment Out for Delivery OrderID: 2268
+Compliant 2023-08-27 09:15:00 INFO ShippingService ShippingModule UserID4949 Shipment Tracking Number Generated OrderID: 2299
+Compliant 2023-08-27 11:45:00 INFO ShippingService ShippingModule UserID5151 Shipment Picked Up from Warehouse OrderID: 2361
+Compliant 2023-08-21 15:30:00 INFO ShippingService ShippingModule UserID606 Shipment Picked Up from Warehouse OrderID: 975
+Compliant 2023-08-27 13:00:00 INFO ShippingService ShippingModule UserID5252 Shipment In Transit OrderID: 2392
+Compliant 2023-08-25 18:00:00 INFO ShippingService ShippingModule UserID4040 Shipment Out for Local Delivery OrderID: 2020
+Compliant 2023-08-22 15:30:00 INFO ShippingService ShippingModule UserID1414 Shipment In Transit to Next Hub OrderID: 1214

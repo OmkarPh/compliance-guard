@@ -1,23 +1,23 @@
 from kafka import KafkaProducer
 import time
 from topics import log_level_topics
+from producer_config import LOGS_TIME_INTERVAL, TEST_LOGS_PATH
 
 # Kafka configuration for local setup
 kafka_config = {
-    "bootstrap_servers": "localhost:9092",  # Assuming Kafka broker is running locally
+  "bootstrap_servers": "localhost:9092",  # Assuming Kafka broker is running locally
 }
 
 # Create a Kafka producer instance
 producer = KafkaProducer(**kafka_config)
 
 # The topic to produce messages to
-topic = log_level_topics["error"]
+topic = log_level_topics["auth"]
 
 # File to read and send lines from
-test_logs_path = "../../logs"
-file_path = f"{test_logs_path}/{topic}.txt"
+file_path = f"{TEST_LOGS_PATH}/{topic}.txt"
 
-print(f"Consuming {topic}")
+print(f"{topic} producing logs ...\n")
 
 # Read and send lines from the file
 with open(file_path, "r") as file:
@@ -26,7 +26,7 @@ with open(file_path, "r") as file:
         producer.send(topic, message.encode("utf-8"))
         producer.flush()
         print(f"Produced ({topic}): {message}")
-        time.sleep(2)  # Delay between sending messages
+        time.sleep(LOGS_TIME_INTERVAL)  # Delay between sending messages
 
 # Close the producer
 producer.close()

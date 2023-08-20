@@ -34,7 +34,7 @@ Compliant,2023-09-09 11:40:17,INFO,InventoryService,InventoryModule,UserID101,St
 Compliant,2023-09-09 12:35:40,INFO,OrderService,OrderModule,UserID404,Order Return Initiated,OrderID: 123
 Compliant,2023-09-09 13:25:15,INFO,ShippingService,ShippingModule,UserID303,Shipment Delay Notification,ShipmentID: 456
 Compliant,2023-09-09 14:50:22,INFO,PaymentService,PaymentModule,UserID505,Payment Receipt Sent,TransactionID: 234
-Compliant,2023-09-09 15:45:18,INFO,ProductService,ProductModule,UserID202,Product Comparison Viewed,Products: [123, 234]
+Compliant,2023-09-09 15:45:18,INFO,ProductService,ProductModule,UserID202,Product Comparison Viewed,Products: [123; 234]
 Compliant,2023-09-09 16:30:09,INFO,AuthUserService,AuthModule,UserID404,Two-Factor Authentication Enabled,UserID: 567
 Compliant,2023-09-09 17:25:15,INFO,InventoryService,InventoryModule,UserID606,Stock Transfer Request,ProductID: 345
 Compliant,2023-09-09 18:10:22,INFO,ProductService,ProductModule,UserID101,Product Details Viewed,ProductID: 678

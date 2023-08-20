@@ -34,7 +34,7 @@ Not Compliant,2023-09-09 11:40:17,ERROR,InventoryService,InventoryModule,UserID1
 Not Compliant,2023-09-09 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order Return,OrderID: 123
 Not Compliant,2023-09-09 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Delay Notification,ShipmentID: 456
 Not Compliant,2023-09-09 14:50:22,WARN,PaymentService,PaymentModule,UserID505,Fraudulent Payment Attempt,TransactionID: 234
-Not Compliant,2023-09-09 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Attempt,Products: [123, 234]
+Not Compliant,2023-09-09 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Attempt,Products: [123; 234]
 Not Compliant,2023-09-09 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Two-Factor Authentication,UserID: 567
 Not Compliant,2023-09-09 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Stock Diversion Detected
 Not Compliant,2023-09-09 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Filtering,Keyword: Laptop
@@ -74,7 +74,7 @@ Not Compliant,2023-09-13 11:40:17,ERROR,InventoryService,InventoryModule,UserID1
 Not Compliant,2023-09-13 12:35:40,DEBUG,OrderService,OrderModule,UserID404,Unauthorized Order Return,OrderID: 123
 Not Compliant,2023-09-13 13:25:15,ERROR,ShippingService,ShippingModule,UserID303,Unauthorized Shipment Delay Notification,ShipmentID: 456
 Not Compliant,2023-09-13 14:50:22,WARN,PaymentService,PaymentModule,UserID505,Fraudulent Payment Attempt,TransactionID: 234
-Not Compliant,2023-09-13 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Attempt,Products: [123, 234]
+Not Compliant,2023-09-13 15:45:18,DEBUG,ProductService,ProductModule,UserID202,Product Manipulation Attempt,Products: [123; 234]
 Not Compliant,2023-09-13 16:30:09,WARN,AuthUserService,AuthModule,UserID404,Unauthorized Two-Factor Authentication,UserID: 567
 Not Compliant,2023-09-13 17:25:15,ERROR,InventoryService,InventoryModule,UserID606,Unauthorized Stock Diversion
 Not Compliant,2023-09-13 18:10:22,DEBUG,ProductService,ProductModule,UserID101,Unauthorized Product Recommendation Change
